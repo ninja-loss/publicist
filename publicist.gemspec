@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jason@lookforwardenterprises.com"]
   spec.description   = %q{A pub/sub framework for loosley coupled communicatiion between Ruby objects.}
   spec.summary       = %q{A pub/sub framework for Ruby objects.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/ninja-loss/publicist"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
